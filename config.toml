@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "elprup's blog"
-baseurl = "http://blog2.elprup.com/"
+baseurl = "http://blog.elprup.com/"
 
 theme = "cocoa-eh"
 builddrafts = true
