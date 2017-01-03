@@ -1,0 +1,31 @@
+languageCode = "en-us"
+title = "elprup's blog"
+baseurl = "http://blog2.elprup.com/"
+
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+author = "elprup"
+pygmentsuseclasses = true
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
+
+[params]
+author = "elprup"
+cachebuster = true
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "code for living, write for heart"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+lang = "en"
+github = "https://github.com/elpurp"
+email = "elprup@126.com"
